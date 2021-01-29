@@ -1,0 +1,13 @@
+baseURL = "https://squadtopia.de/"
+languageCode = "de-DE"
+title = "[SQT] Squadtopia"
+theme = "hugograyscale"
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Website of the Squad Community Squadtopia (SQT)"
+    author = "Squadtopia"
+
+[Author]
+    name = "Squadtopia"
+    bio = "Willkommen auf der Squadtopia Webpräsenz"
