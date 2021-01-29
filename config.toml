@@ -2,6 +2,8 @@ baseURL = "https://squadtopia.de/"
 languageCode = "de-DE"
 title = "[SQT] Squadtopia"
 theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
     # Provide some metadata for search and indexing services

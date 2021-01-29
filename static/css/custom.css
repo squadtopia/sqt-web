@@ -1,13 +1,13 @@
-a {
-    color: #ffa500;
-}
-
-a:hover {
-    color: white;
-}
-
 .improve-contrast-box {
     padding-right: 1.5rem;
     padding-left: 1.5rem;
     margin-left: 0.75rem;
+}
+
+#sec-ind-2 .row {
+    text-align: left;
+}
+
+.content-section {
+    padding-top: 50px;
 }
